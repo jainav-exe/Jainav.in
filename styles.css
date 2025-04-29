@@ -22,4 +22,13 @@ img {
     max-width: 100%;
     height:auto;
     display:block;
+    max-width: 100%;
+    height:auto;
+    display:block;
+    margin:auto;
+    align-items:centre;
+    justify-content:centre;
+    padding:20px;
+    border : 5px solid yellow;
+    border-radius: 10px;
 }
